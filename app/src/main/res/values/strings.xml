@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">auxiliary</string>
+    <string name="the_url_is_empty">空的URL</string>
+    <string name="close_page">关闭页面</string>
+</resources>
